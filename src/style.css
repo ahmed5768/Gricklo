@@ -493,6 +493,10 @@ li {
   color: #a4a6ae;
 }
 @media screen and (max-width: 768px) {
+  .butn-div{
+    display: block;
+    gap: 0px;
+  }
   .form-div1{
     width: 90%;
     margin: auto;
